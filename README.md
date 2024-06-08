@@ -48,9 +48,10 @@ Aim - To create a Dashboard to display the statistics of the UEFA Champions Leag
    Data Labels - White (Position-Outside End)
    Filter on Player - Filter Type is 'Top N', Show Items - 10, By Value - Sum of Appearence
 11) Insert the Logo of the UEFA Champions League where suitable
-    ![ucllogo](https://github.com/viskypapi/UCL-PowerBI-Report/assets/164670302/5797dd62-a1e2-44e2-b399-c2e64b762a6b)
 12) Final Result -
-    ![2024-06-08](https://github.com/viskypapi/UCL-PowerBI-Report/assets/164670302/3a36a914-38fa-4c62-b52c-35a3de426439)
+
+
+![2024-06-08](https://github.com/viskypapi/UCL-PowerBI-Report/assets/164670302/3a36a914-38fa-4c62-b52c-35a3de426439)
 
 
    
