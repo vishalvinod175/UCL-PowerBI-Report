@@ -1,5 +1,14 @@
 # UCL-PowerBI-Report
-Aim - To create a Dashboard to display the statistics of the UEFA Champions League's top Clubs, Players and Coaches, over the years.
+Aim - To create a Dashboard to display the statistics of the UEFA Champions League's top Clubs, Players and Coaches, over the years.   
+
+
+
+
+
+![2024-06-08](https://github.com/vishalvinod175/UCL-PowerBI-Report/assets/164670302/bd4f3589-eb99-4262-afc4-59205c30d343)    
+
+
+
 
 1) Load the Data from the given .csv Files.
 2) Change the canvas background to the colour - #000431
@@ -15,10 +24,9 @@ Aim - To create a Dashboard to display the statistics of the UEFA Champions Leag
 10) Insert a Stacked Column Chart displaying the "Top 10 Players by Appearences", X-Axis is 'Player' while Y-Axis is 'Sum Of Appearence', Colour of Bar - White, Data Labels - White (Position-Outside End), Filter on Player - Filter Type is 'Top N', Show Items - 10, By Value - Sum of Appearence
 11) Insert the Logo of the UEFA Champions League where suitable
 12) Disclaimer- You can do this report using your own ideas and visualizations as well, Thank You.
-13) Final Result -
 
 
-     ![2024-06-09 (2)](https://github.com/viskypapi/UCL-PowerBI-Report/assets/164670302/03bca59a-65cf-469d-a1de-6110e06d4682)
+
 
 
 
